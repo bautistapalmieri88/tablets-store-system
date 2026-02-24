@@ -6,7 +6,7 @@ This project was developed one week after refactoring my Geometric Figures proje
 
 ---
 
-### 🧠 What this project demonstrates
+## 🧠 What this project demonstrates
 
 - Application of Object-Oriented Programming (OOP)
 - Basic domain modeling (Tablets, Customers, Store tasks)
@@ -15,7 +15,7 @@ This project was developed one week after refactoring my Geometric Figures proje
 
 ---
 
-### 🧱 Concepts applied
+## 🧱 Concepts applied
 
 - Java fundamentals
 - Object-Oriented Programming
@@ -25,24 +25,46 @@ This project was developed one week after refactoring my Geometric Figures proje
 
 ---
 
-### ▶️ How to run (Eclipse)
+## ⬇️ Download
+
+You can obtain the project in two ways:
+
+### Option 1 — Download ZIP
+1. Click the green **Code** button  
+2. Select **Download ZIP**  
+3. Extract the folder  
+4. Import it into Eclipse as an existing project  
+
+### Option 2 — Clone with Git
+
+git clone https://github.com/bautistapalmieri88/tablets-store-system.git
+
+Then import the project into Eclipse.
+
+---
+
+## ▶️ How to run (Eclipse)
+
+This project is structured as a standard Java project for Eclipse.
 
 1. Open Eclipse  
 2. Go to **File → Import → Existing Projects into Workspace**  
 3. Select the project folder `tablets-store-system`  
-4. Open `Main.java`  
-5. Right click → **Run As → Java Application**
+4. Make sure Eclipse detects it as a **Java Project** 
+5. Open `Main.java` inside the `src` folder
+6. Right click → **Run As → Java Application**
 
 ---
 
-### 📌 Future improvements
+## 📌 Future improvements
 
 - Improve package naming conventions
 - Refine responsibility separation
-- Reduce repetitive logic
 - Introduce basic testing in future iterations
 
 ---
+
+# 🛒 Tablets Store System (Java)
 
 Aplicación de consola en Java que simula un sistema básico de gestión de una tienda de tablets.
 
@@ -50,7 +72,7 @@ Este proyecto fue desarrollado una semana después de refactorizar mi proyecto d
 
 ---
 
-### 🧠 Qué demuestra este proyecto
+## 🧠 Qué demuestra este proyecto
 
 - Aplicación de Programación Orientada a Objetos (POO)
 - Modelado básico de entidades (Tablets, Clientes, Tareas de tienda)
@@ -59,7 +81,7 @@ Este proyecto fue desarrollado una semana después de refactorizar mi proyecto d
 
 ---
 
-### 🧱 Conceptos aplicados
+## 🧱 Conceptos aplicados
 
 - Fundamentos de Java
 - Programación Orientada a Objetos
@@ -69,19 +91,39 @@ Este proyecto fue desarrollado una semana después de refactorizar mi proyecto d
 
 ---
 
-### ▶️ Cómo ejecutarlo (Eclipse)
+## ⬇️ Descarga
+
+Puedes obtener el proyecto de dos formas:
+
+### Opción 1 — Descargar ZIP
+1. Click en el botón verde **Code**  
+2. Seleccionar **Download ZIP**  
+3. Extraer la carpeta  
+4. Importarla en Eclipse como proyecto existente  
+
+### Opción 2 — Clonar con Git
+
+git clone https://github.com/bautistapalmieri88/tablets-store-system.git
+
+Luego importar el proyecto en Eclipse.
+
+---
+
+## ▶️ Cómo ejecutarlo (Eclipse)
+
+Este proyecto está estructurado como un proyecto estándar de Java para Eclipse.
 
 1. Abrir Eclipse  
 2. Ir a **File → Import → Existing Projects into Workspace**  
 3. Seleccionar la carpeta `tablets-store-system`  
-4. Abrir `Main.java`  
-5. Click derecho → **Run As → Java Application**
+4. Verificar que Eclipse lo detecte como proyecto Java    
+5. Abrir `Main.java` dentro de la carpeta `src`      
+6. Click derecho → **Run As → Java Application**
 
 ---
 
-### 📌 Próximas mejoras
+## 📌 Próximas mejoras
 
 - Mejorar la convención de nombres de paquetes
 - Refinar la separación de responsabilidades
-- Reducir lógica repetida
 - Incorporar pruebas básicas en futuras versiones
